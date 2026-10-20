@@ -1,0 +1,152 @@
+Elk_Draw - Lizenzbedingungen / Licence terms
+Version 1.0, 15. Oktober 2026
+
+Copyright (c) 2026 Oleksandr Karasyov. Alle Rechte vorbehalten / All rights reserved.
+Kontakt / Contact: alexkarasyov0@gmail.com
+
+Die deutsche Fassung ist verbindlich. Die englische Fassung dient nur der Information.
+The German version is binding. The English version is for information only.
+
+================================================================================
+DEUTSCHE FASSUNG (verbindlich)
+================================================================================
+
+1. Gegenstand
+   Diese Bedingungen gelten für das Programm Elk_Draw in allen Ausgaben (Vollversion und
+   Ausgabe ELG, für Windows und macOS) einschließlich Dokumentation und Aktualisierungen
+   ("Software"). Rechteinhaber ist [NAME] ("Rechteinhaber").
+
+2. Nutzungsrecht
+   2.1 Der Rechteinhaber räumt Ihnen unentgeltlich das einfache, nicht übertragbare Recht ein,
+       die Software zu installieren und zu nutzen
+       a) für private Zwecke,
+       b) für Lehre und Ausbildung (Schulen, Hochschulen, Aus- und Weiterbildung) und
+       c) für nichtkommerzielle akademische Forschung.
+   2.2 Jede andere Nutzung, insbesondere die Nutzung in oder für Unternehmen, für Auftrags-
+       forschung oder Auftragsarbeiten oder zur Erzielung von Einnahmen ("kommerzielle
+       Nutzung"), bedarf der vorherigen Zustimmung des Rechteinhabers in Textform (z. B. E-Mail).
+   2.3 Sie dürfen unveränderte, vollständige Kopien der Software einschließlich dieser
+       Bedingungen und der Lizenzhinweise unentgeltlich an Dritte weitergeben. Für Dritte
+       gelten dann ebenfalls diese Bedingungen.
+
+3. Einschränkungen
+   Soweit nicht gesetzlich ausdrücklich erlaubt (insbesondere §§ 69d, 69e UrhG), ist es nicht
+   gestattet,
+   a) die Software zu verkaufen, zu vermieten, zu verleasen oder Unterlizenzen zu erteilen,
+   b) die Software zu verändern, zu übersetzen, zu dekompilieren, zu disassemblieren oder auf
+      andere Weise ihren Quellcode zu ermitteln,
+   c) Urheberrechtsvermerke, Lizenzhinweise oder diese Bedingungen zu entfernen oder zu
+      verändern,
+   d) den Namen "Elk_Draw" oder das Programmsymbol für andere Produkte zu verwenden.
+
+4. Ihre Inhalte
+   Zeichnungen, Dateien, Abbildungen und Ergebnisse, die Sie mit der Software erstellen,
+   gehören Ihnen. Der Rechteinhaber erhebt daran keine Rechte. Sie dürfen sie frei verwenden,
+   auch in Veröffentlichungen.
+
+5. Komponenten Dritter und externe Programme
+   5.1 Die Software enthält Komponenten Dritter (z. B. .NET, Avalonia, SkiaSharp, HarfBuzz,
+       die Schrift Inter). Für sie gelten ausschließlich deren eigene Lizenzen; siehe
+       THIRD-PARTY-NOTICES.md und den Ordner "licenses". Diese Bedingungen schränken die
+       Rechte aus jenen Lizenzen nicht ein.
+   5.2 Programme, die die Software auf Wunsch startet (z. B. MOPAC, xtb, Python), sind nicht
+       Teil der Software. Sie installieren und nutzen sie in eigener Verantwortung und unter
+       deren Lizenzen.
+
+6. Gewährleistung und Haftung
+   6.1 Die Software wird unentgeltlich überlassen. Der Rechteinhaber haftet für Sach- und
+       Rechtsmängel nur, wenn er einen Mangel arglistig verschwiegen hat.
+   6.2 Im Übrigen haftet der Rechteinhaber nur für Vorsatz und grobe Fahrlässigkeit.
+   6.3 Unberührt bleiben die Haftung für Schäden aus der Verletzung des Lebens, des Körpers oder
+       der Gesundheit sowie die Haftung nach dem Produkthaftungsgesetz.
+   6.4 Chemische Angaben und Berechnungen der Software (z. B. Namen, Summenformeln, Massen,
+       Stereochemie, Spektren, Geometrien, Energien) können fehlerhaft oder unvollständig sein.
+       Prüfen Sie Ergebnisse unabhängig, bevor Sie sich darauf verlassen, insbesondere vor
+       Veröffentlichungen, behördlichen Einreichungen, Arbeiten mit gefährlichen Stoffen oder
+       anderen sicherheitsrelevanten Entscheidungen. Für die Sicherung Ihrer Daten sind Sie
+       selbst verantwortlich.
+
+7. Dauer und Änderungen
+   7.1 Das Nutzungsrecht endet automatisch, wenn Sie gegen diese Bedingungen verstoßen. Sie
+       müssen dann alle Kopien der Software löschen.
+   7.2 Der Rechteinhaber kann künftige Versionen unter anderen Bedingungen anbieten. Für eine
+       Version, die Sie bereits erhalten haben, gelten weiterhin die mit ihr gelieferten
+       Bedingungen.
+
+8. Schlussbestimmungen
+   8.1 Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.
+       Sind Sie Verbraucher mit gewöhnlichem Aufenthalt in einem anderen Staat, bleiben die
+       zwingenden Verbraucherschutzvorschriften dieses Staates unberührt.
+   8.2 Sind Sie Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-
+       rechtliches Sondervermögen, ist Gerichtsstand der Wohnsitz des Rechteinhabers.
+   8.3 Sollte eine Bestimmung unwirksam sein, bleiben die übrigen Bestimmungen wirksam.
+       Anstelle der unwirksamen Bestimmung gilt die gesetzliche Regelung.
+
+================================================================================
+ENGLISH VERSION (for information only)
+================================================================================
+
+1. Subject
+   These terms apply to the program Elk_Draw in all editions (full version and ELG edition, for
+   Windows and macOS), including documentation and updates ("Software"). The rights holder is
+   Oleksandr Karasyov ("Rights Holder").
+
+2. Licence
+   2.1 The Rights Holder grants you, free of charge, the non-exclusive, non-transferable right to
+       install and use the Software
+       a) for private purposes,
+       b) for teaching and education (schools, universities, training) and
+       c) for non-commercial academic research.
+   2.2 Any other use, in particular use in or for companies, for contract research or contract
+       work, or to generate income ("commercial use"), requires the Rights Holder's prior
+       permission in text form (e.g. e-mail).
+   2.3 You may pass on unmodified, complete copies of the Software, including these terms and the
+       licence notices, to others free of charge. These terms then apply to them as well.
+
+3. Restrictions
+   Except where expressly permitted by law (in particular Sections 69d and 69e of the German
+   Copyright Act), you may not
+   a) sell, rent, lease or sublicense the Software,
+   b) modify, translate, decompile or disassemble the Software or otherwise try to obtain its
+      source code,
+   c) remove or alter copyright notices, licence notices or these terms,
+   d) use the name "Elk_Draw" or the program icon for other products.
+
+4. Your content
+   Drawings, files, figures and results you create with the Software belong to you. The Rights
+   Holder claims no rights in them. You may use them freely, including in publications.
+
+5. Third-party components and external programs
+   5.1 The Software contains third-party components (e.g. .NET, Avalonia, SkiaSharp, HarfBuzz,
+       the Inter typeface). They are governed solely by their own licences; see
+       THIRD-PARTY-NOTICES.md and the "licenses" folder. These terms do not restrict the rights
+       granted by those licences.
+   5.2 Programs the Software starts on request (e.g. MOPAC, xtb, Python) are not part of the
+       Software. You install and use them at your own responsibility and under their licences.
+
+6. Warranty and liability
+   6.1 The Software is provided free of charge. The Rights Holder is liable for defects in
+       quality or title only if he fraudulently concealed the defect.
+   6.2 Otherwise the Rights Holder is liable only for intent and gross negligence.
+   6.3 Liability for injury to life, body or health and liability under the German Product
+       Liability Act remain unaffected.
+   6.4 Chemical information and calculations of the Software (e.g. names, formulas, masses,
+       stereochemistry, spectra, geometries, energies) may be wrong or incomplete. Check results
+       independently before relying on them, in particular before publications, regulatory
+       submissions, work with hazardous substances or other safety-relevant decisions. You are
+       responsible for backing up your data.
+
+7. Term and changes
+   7.1 The licence ends automatically if you breach these terms. You must then delete all copies
+       of the Software.
+   7.2 The Rights Holder may offer future versions under different terms. A version you have
+       already received remains under the terms supplied with it.
+
+8. Final provisions
+   8.1 German law applies, excluding the UN Convention on Contracts for the International Sale of
+       Goods. If you are a consumer habitually resident in another country, the mandatory
+       consumer-protection rules of that country remain unaffected.
+   8.2 If you are a merchant, a legal entity under public law or a special fund under public law,
+       the place of jurisdiction is the Rights Holder's place of residence.
+   8.3 If any provision is invalid, the remaining provisions stay in effect. The statutory rule
+       applies in place of the invalid provision.
