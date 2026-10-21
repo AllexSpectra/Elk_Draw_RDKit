@@ -9,9 +9,11 @@ This repository only holds the downloads. Get the latest version under
 
 ## What Elk_Draw RDKit does
 
-- Drawing structures, reactions, brackets, text and shapes; templates and a fragment library
-  (rings, functional groups, protecting groups, reagents and solvents, macrocycles such as porphine
-  and the cucurbit[n]urils, ferrocene).
+- Drawing structures, reactions, brackets, text and shapes; templates and a fragment library: rings,
+  functional and protecting groups, reagents and solvents (including acids such as HBF4 and HBPh4); cages,
+  macrocycles and complexes drawn in 3D perspective (adamantane, triptycene, POSS, cucurbit[n]urils,
+  cyclodextrins, calixarenes, porphyrins, ferrocene); natural products (caffeine, cholesterol); dyes and
+  pigments (coumarins, Nile Red, aza-BODIPY, rhodamine B, perylene diimide, DPP, HPTS).
 - Properties panel: formula, molecular weight, exact mass, logP, TPSA, H-bond donors and acceptors,
   rotatable bonds, Fsp3, rule of five, SMILES; selected values can be inserted as text.
 - **Analyze › Descriptors (RDKit)**: the 217 molecular descriptors of RDKit (as Python's
