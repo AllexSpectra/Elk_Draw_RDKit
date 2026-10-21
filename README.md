@@ -18,6 +18,11 @@ This repository only holds the downloads. Get the latest version under
   `Descriptors.CalcMolDescriptors`; optionally the 192 AUTOCORR2D) for the selected structure or the whole
   drawing, by category, with search; copy the rows you see, or save them as a one-row CSV to build QSAR
   data sets.
+- **Analyze › QSAR Data Set**: descriptors for every molecule of an SD file (its data fields, such as measured
+  activities, become columns), a SMILES file or a CSV with a SMILES column, as one CSV table.
+- **Analyze › QSAR Model**: multiple linear regression of a measured value on descriptors chosen stepwise by the
+  cross-validated q² (leave-one-out): equation, R², q², RMSE, coefficients and a measured-vs-predicted plot;
+  prediction for the drawn structure with an applicability-domain warning; models saved as `.qsar` files.
 - Analyze menu: structure information, estimated physical properties (Joback), structure check, formula
   and geometry optimisation (force field).
 - Structures in Microsoft Word: insert them, double-click to edit them in Elk_Draw.
