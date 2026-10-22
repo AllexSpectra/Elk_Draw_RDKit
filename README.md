@@ -13,7 +13,8 @@ This repository only holds the downloads. Get the latest version under
   functional and protecting groups (including silyl groups); acids (including HBF4 and HBPh4), bases,
   reagents, peptide coupling reagents and solvents; cages
   and macrocycles drawn in 3D perspective (adamantane, triptycene, POSS, cucurbit[n]urils, cyclodextrins,
-  calixarenes, porphyrins); metal complexes with coordinate bonds (ferrocene, Ir(ppy)3, Ir(ppy)2(acac),
+  calixarenes, porphyrins; cucurbiturils also from the side, for host–guest drawings with a guest placed in
+  the cavity and drawn in depth); metal complexes with coordinate bonds (ferrocene, Ir(ppy)3, Ir(ppy)2(acac),
   Gd contrast agents, Eu and Tb diketonates); natural products (caffeine, cholesterol); dyes and pigments
   (coumarins, Nile Red, aza-BODIPY, rhodamine B, perylene diimide, DPP, HPTS).
 - Properties panel: formula, molecular weight, exact mass, logP, TPSA, H-bond donors and acceptors,
