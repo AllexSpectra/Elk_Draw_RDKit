@@ -10,7 +10,8 @@ This repository only holds the downloads. Get the latest version under
 ## What Elk_Draw RDKit does
 
 - Drawing structures, reactions, brackets, text and shapes; templates and a fragment library: rings,
-  functional and protecting groups; acids (including HBF4 and HBPh4), bases, reagents and solvents; cages
+  functional and protecting groups (including silyl groups); acids (including HBF4 and HBPh4), bases,
+  reagents, peptide coupling reagents and solvents; cages
   and macrocycles drawn in 3D perspective (adamantane, triptycene, POSS, cucurbit[n]urils, cyclodextrins,
   calixarenes, porphyrins); metal complexes with coordinate bonds (ferrocene, Ir(ppy)3, Ir(ppy)2(acac),
   Gd contrast agents, Eu and Tb diketonates); natural products (caffeine, cholesterol); dyes and pigments
