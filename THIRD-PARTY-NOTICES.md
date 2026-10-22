@@ -99,6 +99,13 @@ The Inter font is not modified and not sold on its own.
 
 ---
 
+## Trademarks
+
+ChemDraw is a registered trademark of Revvity Signals Software, Inc. Elk_Draw reads and writes the CDX and
+CDXML file formats, from their published specification, to exchange drawings with other programs; it is not
+affiliated with, endorsed or sponsored by Revvity. Other names used to identify file formats or programs may
+be trademarks of their owners.
+
 ## Keeping this file correct
 
 1. After adding or updating a NuGet package, run in the project folder:
